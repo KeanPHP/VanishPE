@@ -1,0 +1,14 @@
+name: VanishPE
+version: 0.1
+api: 3.0.0
+main: VanishPE\Main
+author: KeanPHP
+
+commands:
+  vanish:
+    description: Vanish
+    aliases: ["v"]
+
+permissions:
+  vanish.vanish:
+    default: op
